@@ -1,0 +1,15 @@
+{
+    "dependencies": [
+        {
+            "name": "imgui",
+            "features": [
+                "win32-binding",
+                "sdl2-binding",
+                "opengl3-binding"
+            ]
+        },
+        "implot",
+        "pybind11",
+        "spdlog"
+    ]
+}
