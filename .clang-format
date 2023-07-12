@@ -1,0 +1,6 @@
+BasedOnStyle: Google
+AllowShortBlocksOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+IndentWidth: 4
+ColumnLimit: 160
+AccessModifierOffset: -4

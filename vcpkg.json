@@ -3,13 +3,16 @@
         {
             "name": "imgui",
             "features": [
-                "win32-binding",
                 "sdl2-binding",
-                "opengl3-binding"
+                "opengl3-binding",
+                "freetype",
+                "docking-experimental"
             ]
         },
         "implot",
+        "imguizmo",
         "pybind11",
-        "spdlog"
+        "spdlog",
+        "tiny-process-library"
     ]
 }
